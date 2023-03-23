@@ -12,7 +12,9 @@
   },
   "dependencies": {
     "element-plus": "^2.3.1",
+    "less": "^4.1.3",
     "pinia": "^2.0.32",
+    "sass": "^1.59.3",
     "tall": "^8.0.0",
     "vue": "^3.2.47",
     "vue-router": "^4.1.6"

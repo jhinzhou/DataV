@@ -34,6 +34,7 @@ const gotoPage = val => {
   --el-card-bg-color: #d1d1d1;
   --el-card-border-color: #ffffff2f;
   transition: 0.2s all;
+  box-shadow: 10px 10px 20px 10px rgba(44, 44, 44, 0.155);
 }
 .system-select:hover {
   transform: translateY(-20px);

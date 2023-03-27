@@ -5,7 +5,7 @@ body {
   height: 100%;
   overflow: hidden;
   margin: 0;
-  -webkit-user-select:none;
+  -webkit-user-select: none;
   user-select: none;
   /* background-image: url('@/assets/images/background.png');
   background-size: cover;
@@ -18,5 +18,5 @@ body {
   font-weight: normal;
 }
 :root {
-	--color: #0ebeff;
+  --color: #0ebeff;
 }
